@@ -41,6 +41,7 @@
     "commander": "14.0.1",
     "dotenv": "17.2.3",
     "express": "5.1.0",
+    "undici": "^7.13.0",
     "zod": "3.25.76"
   },
   "devDependencies": {
